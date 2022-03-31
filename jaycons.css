@@ -1,0 +1,21 @@
+@import 'css/regular.css';
+@import 'css/solid.css';
+@import 'css/brand.css';
+
+@font-face {
+    font-family:'jaycons';
+    src: url('fonts/jaycons.ttf');
+    display: inline-block;
+}
+*{
+    vertical-align: middle;
+}
+.jc{
+    font-family: 'jaycons';
+    display: inline-block;
+    line-height: 1;
+    text-rendering: auto;
+    font-style: normal;
+    text-transform: none;
+}
+

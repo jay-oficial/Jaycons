@@ -1,0 +1,141 @@
+.jc-x::before{
+    content:'\0046';
+}
+.jc-x-circle::before{
+    content: '\0047';
+}
+.jc-user::before{
+    content: '\0048';
+}
+.jc-user-circle::before{
+    content: '\0049';
+}
+.jc-unlink::before{
+    content: '\004a';
+}
+.jc-toggle-right::before{
+    content: '\004b';
+}
+.jc-toggle-left::before{
+    content: '\004c';
+}
+.jc-sun::before{
+    content: '\004d';
+}
+.jc-show::before{
+    content: '\004e';
+}
+.jc-registered::before{
+    content: '\004f';
+}
+.jc-plus::before{
+    content: '\0050';
+}
+.jc-plus-circle::before{
+    content: '\0051';
+}
+.jc-phone::before{
+    content: '\0052';
+}
+.jc-paper-plane::before{
+    content: '\0053';
+}
+.jc-moon::before{
+    content: '\0054';
+}
+.jc-menu::before{
+    content: '\0055';
+}
+.jc-mobile::before{
+    content: '\0056';
+}
+.jc-minus::before{
+    content: '\0057';
+}
+.jc-minus-circle::before{
+    content: '\0058';
+}
+.jc-link::before{
+    content: '\0059';
+}
+.jc-link-external::before{
+    content: '\005a';
+}
+.jc-link-alt::before{
+    content: '\005b';
+}
+.jc-laptop::before{
+    content: '\005c';
+}
+.jc-home::before{
+    content:'\005d';
+}
+.jc-home-alt::before{
+    content:'\005e';
+}
+.jc-home-alt-2::before{
+    content:'\005f';
+}
+.jc-hide::before{
+    content:'\0060';
+}
+.jc-heart::before{
+    content:'\0061';
+}
+.jc-folder::before{
+    content:'\0062';
+}
+.jc-folder-open::before{
+    content:'\0063';
+}
+.jc-envelope::before{
+    content:'\0064';
+}
+.jc-download::before{
+    content:'\0065';
+}
+.jc-desktop::before{
+    content:'\0066';
+}
+.jc-chevron-up::before{
+    content:'\0067';
+}
+.jc-chevron-right::before{
+    content:'\0068';
+}
+.jc-chevron-left::before{
+    content:'\0069';
+}
+.jc-chevron-down::before{
+    content:'\006a';
+}
+.jc-check::before{
+    content:'\006b';
+}
+.jc-check-circle::before{
+    content:'\006c';
+}
+.jc-copyright::before{
+    content:'\006d';
+}
+.jc-code::before{
+    content:'\006e';
+}
+.jc-clock::before{
+    content:'\006f';
+}
+.jc-circle::before{
+    content:'\0070';
+}
+.jc-arrow-up::before{
+    content:'\0071';
+}
+.jc-arrow-right::before{
+    content:'\0072';
+}
+.jc-arrow-left::before{
+    content:'\0073';
+}
+.jc-arrow-down::before{
+    content:'\0074';    
+}

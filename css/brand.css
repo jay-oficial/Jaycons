@@ -1,0 +1,111 @@
+.jcb-bootstrap::before{
+    content: '\0021';
+}
+.jcb-brave::before{
+    content: '\0022';
+}
+.jcb-css-alt::before{
+    content: '\0023';
+}
+.jcb-css::before{
+    content: '\0024';
+}
+.jcb-chrome::before{
+    content: '\0025';
+}
+.jcb-edge::before{
+    content:'\0026';
+}
+.jcb-facebook-circle::before{
+    content:'\0027';
+}
+.jcb-facebook-square::before{
+    content: '\0028';
+}
+.jcb-facebook::before{
+    content: '\0029';
+}
+.jcb-figma-square::before{
+    content: '\002a';
+}
+.jcb-figma::before{
+    content: '\002b';
+}
+.jcb-firefox::before{
+    content: '\002c';
+}
+.jcb-git::before{
+    content: '\002d';
+}
+.jcb-github::before{
+    content: '\002e';
+}
+.jcb-gmail::before{
+    content: '\002f';
+}
+.jcb-html-alt::before{
+    content: '\0030';
+}
+.jcb-html::before{
+    content: '\0031';
+}
+.jcb-ai::before{
+    content: '\0032';
+}
+.jcb-js-alt::before{
+    content: '\0033';
+}
+.jcb-js::before{
+    content: '\0034';
+}
+.jcb-jay::before{
+    content: '\0035';
+}
+.jcb-linkedin-square::before{
+    content: '\0036';
+}
+.jcb-linkedin::before{
+    content: '\0037';
+}
+.jcb-markdown::before{
+    content: '\0038';
+}
+.jcb-mysql::before{
+    content: '\0039';
+}
+.jcb-opera::before{
+    content: '\003a';
+}
+.jcb-photoshop::before{
+    content: '\003b';
+}
+.jcb-php-alt::before{
+    content: '\003c';
+}
+.jcb-php::before{
+    content: '\003d';
+}
+.jcb-react::before{
+    content: '\003e';
+}
+.jcb-sass::before{
+    content: '\003f';
+}
+.jcb-tailwind::before{
+    content: '\0040';
+}
+.jcb-telegram::before{
+    content: '\0041';
+}
+.jcb-twitter::before{
+    content: '\0042';
+}
+.jcb-whatsapp::before{
+    content: '\0043';
+}
+.jcb-wordpress::before{
+    content: '\0044';
+}
+.jcb-xd::before{
+    content: '\0045';
+}

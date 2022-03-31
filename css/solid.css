@@ -1,0 +1,84 @@
+.jcs-x-circle::before{
+    content:'\0075';
+}
+.jcs-user::before{
+    content:'\0076';
+}
+.jcs-user-circle::before{
+    content:'\0077';
+}
+.jcs-folder-open::before{
+    content:'\0078';
+}
+.jcs-toggle-right::before{
+    content:'\0079';
+}
+.jcs-toggle-left::before{
+    content:'\007a';
+}
+.jcs-sun::before{
+    content:'\007b';
+}
+.jcs-show::before{
+    content:'\007c';
+}
+.jcs-registered::before{
+    content:'\007d';
+}
+.jcs-plus-circle::before{
+    content:'\007e';
+}
+.jcs-phone::before{
+    content:'\00a1';
+}
+.jcs-paper-plane::before{
+    content:'\00a2';
+}
+.jcs-moon::before{
+    content:'\00a3';
+}
+.jcs-mobile::before{
+    content:'\00a4';
+}
+.jcs-minus-circle::before{
+    content:'\00a5';
+}
+.jcs-laptop::before{
+    content:'\00a6';
+}
+.jcs-home::before{
+    content:'\00a7';
+}
+.jcs-home-alt::before{
+    content:'\00a8';
+}
+.jcs-home-alt-2::before{
+    content:'\00a9';
+}
+.jcs-hide::before{
+    content:'\00aa';
+}
+.jcs-heart::before{
+    content:'\00ab';
+}
+.jcs-folder::before{
+    content:'\00ac';
+}
+.jcs-envelope::before{
+    content:'\00ad';
+}
+.jcs-desktop::before{
+    content:'\00ae';
+}
+.jcs-check-circle::before{
+    content:'\00af';
+}
+.jcs-copyright::before{
+    content:'\00b0';
+}
+.jcs-clock::before{
+    content:'\00b1';
+}
+.jcs-circle::before{
+    content:'\00b2';
+}
